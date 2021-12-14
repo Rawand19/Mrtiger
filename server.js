@@ -79,7 +79,7 @@ msg.reply("`💔😂تاگم مەکە کاتم نیە بۆ کەسی کاتی`");
 })
   
 
-client.login("NTYyMzkyMTc2NzkzNzQ3NDU2.YbZax  w.ak2_XgvtzRjg90sOXQZO");
+client.login("NTYyMzkyMTc2NzkzNzQ3NDU2.YbZaxw.ak2_XgvtzRjg9osOXQZOAql84yI");
       
             
     
